@@ -1,0 +1,31 @@
+body {
+  background-color: green;
+}
+
+/*font-family: 'Indie Flower', cursive;*/
+.jumbotron {
+  background-image: url("../img/1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  color: white;
+}
+.jumbotron p{
+  color: white;
+  text-align: left;
+  padding-right: 50%;
+}
+.panel-footer{
+  background-color: blue;
+}
+.panel-body{
+  background-color: red;
+}
+.panel-body img{
+  float: left;
+  max-width: 50%;
+  height: auto;
+}
+.stopfloat{
+  clear: both;
+}
