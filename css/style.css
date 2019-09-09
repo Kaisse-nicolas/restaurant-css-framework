@@ -1,6 +1,4 @@
-body {
-  background-color: green;
-}
+
 
 /*font-family: 'Indie Flower', cursive;*/
 .jumbotron {
@@ -10,22 +8,59 @@ body {
   text-align: center;
   color: white;
 }
-.jumbotron p{
+
+.jumbotron p {
   color: white;
   text-align: left;
   padding-right: 50%;
 }
-.panel-footer{
+
+.panel-footer {
   background-color: blue;
 }
-.panel-body{
+
+.panel-body {
   background-color: red;
+  margin-bottom: 10px;
 }
-.panel-body img{
+
+.panel-body img {
   float: left;
   max-width: 50%;
   height: auto;
 }
-.stopfloat{
-  clear: both;
+
+.btn.btn-primary {
+  background-color: #343a40;
+  text-align: center;
+}
+
+.contact {
+  text-align: center;
+}
+
+.restaurant {
+  text-align: center;
+}
+
+.menu {
+  text-align: center;
+}
+
+.album {
+  text-align: center;
+}
+
+.accueil {
+  text-align: center;
+}
+
+.form-row {
+  text-align: center;
+  margin: 10px;
+}
+.album img {
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
 }
