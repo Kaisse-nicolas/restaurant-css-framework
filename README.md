@@ -11,4 +11,6 @@ Veggie spirit
 
 * Remarque : Projet finis
 
+* Toutes les photos sont libres de droits et issu du site https://pixabay.com/fr/
+
 Site : https://kaisse-nicolas.github.io/restaurant-css-framework/
