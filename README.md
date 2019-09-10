@@ -1,4 +1,4 @@
-= Veggie spirit
+== Veggie spirit
 
 * QUI? : Projet réalisé par Kaisse Nicolas dans le cadre de la formation BE-CODE
 
