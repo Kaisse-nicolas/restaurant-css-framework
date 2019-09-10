@@ -1,3 +1,11 @@
-# restaurant-css-framework
+= Veggie spirit
 
-img1 Image par<a href="https://pixabay.com/fr/users/amiera06-5681141/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2689548">amiera06</a> de <a href="https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2689548">Pixabay</a>
+* QUI? : Projet réalisé par Kaisse Nicolas dans le cadre de la formation BE-CODE
+
+* QUOI? : Site internet mobile first, responsive design réalisé en vue de consolidé les connaissances en Html, Css, bootstrap et responsive design.
+
+* QUAND? : Projet réalisé du mercredi 4 au mardi 10 septembre 2019 (formation commencé le 13 Aout 2019)
+
+* OU? : Projet réalisé dans les locaux de BeCentral Bruxelles
+
+* Remarque : Projet finis
